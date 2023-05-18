@@ -1,0 +1,689 @@
+﻿"Phrases"
+{
+	"You dont have permission"
+	{
+		"pt" "Você não tem permissão pobre"
+                "es" "no tienes permiso negro"
+                "en" "You don't have permission to access this."
+	}
+	
+	"Inventory hasnt been fetched"
+	{
+		"pt" "Agurade seu inventario ainda está sendo carregado carregado" 
+                "es" "Espere, su inventario aún se está cargando."
+		"en" "Wait your inventory hasnt been fetched yet"
+	}
+	
+	"Item Bought"
+	{
+		"#format" "{1:s}"
+		"pt" "Comprou o item parabens pobre"
+		"es" "Compré el artículo felicitaciones pobre"
+                "en" "Item bought"
+	}
+	
+	"Item Available"
+	{
+		"#format" "{1:s},{2:d}"
+		"en" "{1} ({2})"
+		"hu" "{1} ({2})"
+	}
+
+	"Item Plan Available"
+	{
+		"#format" "{1:s}"
+		"en" "{1} (Choose a plan)"
+		"hu" "{1} (Válassz időszakot)"
+	}
+	
+	"Item Equipped"
+	{
+		"#format" "{1:s}"
+		"pt" "{1} [EQUIPADO]"
+		"es" "{1} [EQUIPADO]"
+		"en" "{1} [EQUIPPED]"
+	}
+	
+	"Item Equip"
+	{
+		"pt" "Equipe este item"
+		"es" "Equipar este artículo"
+		"en" "Equip this item"
+	}
+	
+	"Item Unequip"
+	{
+		"pt" "Item foi desequipado"
+		"es" "El artículo ha sido desequipado"
+		"en" "Unequip"
+	}
+	
+	"Item Use"
+	{
+		"pt" "Use esse item"
+		"es" "Usa este artículo"
+		"en" "Use this item"
+	}
+	
+	"Item Sell"
+	{
+		"#format" "{1:d}"
+		"pt" "Venda por {1}"
+		"es" "Venta por {1}"
+		"en" "Sell for {1}"
+	}
+	
+	"Item Gift"
+	{
+		"pt" "Presenteie este item"
+		"es" "Regalo este artículo"
+		"en" "Gift this item"
+	}
+	
+	"Title Store"
+	{
+		"pt" "Pitu Store Menu"
+		"es" "Pitu Store Menu"
+		"en" "Pitu Store Menu"
+	}
+	
+	"Title Credits"
+	{
+		"#format" "{1:d}"
+		"pt" "Créditos: {1}"
+		"es" "Créditos: {1}"
+		"en" "Credits: {1}"
+	}
+	
+	"Title Expiration"
+	{
+		"#format" "{1:d},{2:d}"
+		"pt" "Expira em {1}d {2}h"
+		"es" "Caduca en {1}d {2}h"
+		"en" "Expires in {1}d {2}h"
+	}
+
+	"Title Gift"
+	{
+		"pt" "Escolha um jogador(a) para enviar um presente"
+		"es" "Elige un jugador(a) para enviar un regalo a"
+		"en" "Choose a player to send gift to"
+	}
+	
+	"Gift Player Left"
+	{
+		"pt" "O pobre de merda saiu do server quando você ia enviar o presente"
+		"es" "El pobre se salio del servidor cuando ibas a mandar el regalo"
+		"en" "Selected player has already left the game."
+	}
+	
+	"Gift No Players"
+	{
+		"pt" "Tem ninguem disponivel pra enviar essa merda não fica pra vc pobre"
+		"es" "No hay nadie disponible para enviar tu regalo de mierda"
+		"en" "There's noone you can gift this item to."
+	}
+	
+	"Chat Bought Item"
+	{
+		"#format" "{1:s},{2:t}"
+		"pt" "Nossa o pobre comprou o item: {HIGHLIGHT}{1} {2}{NORMAL}."
+		"es" "Vaya, el pobre compró el artículo: {HIGHLIGHT}{1} {2}{NORMAL}."
+		"en" "You bought these shit item: {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Sold Item"
+	{
+		"#format" "{1:s},{2:t}"
+		"pt" "Vendou pq ta passando fome kkkkk: {HIGHLIGHT}{1} {2}{NORMAL}."
+		"es" "Vendiste el artículo: {HIGHLIGHT}{1} {2}{NORMAL}."
+		"en" "You have sold a {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+	
+	"Chat Gift Item Sent"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"pt" "Você enviou {HIGHLIGHT}{1}{NORMAL} a {HIGHLIGHT}{2} {3}{NORMAL} como uma esmola para aquele pobre."
+		"es" "enviaste como regalo {HIGHLIGHT}{1}{NORMAL} a {HIGHLIGHT}{2} {3}{NORMAL} pero tengo que decir, que regalo de mierda."
+		"en" "You have sent {HIGHLIGHT}{1}{NORMAL} a {HIGHLIGHT}{2} {3}{NORMAL} as a gift, but what a shitty gift."
+	}
+	
+	"Chat Gift Item Received"
+	{
+		"#format" "{1:s},{2:s},{3:t}"
+		"en" "{HIGHLIGHT}{1}{NORMAL} te enviou esse item como esmola: {HIGHLIGHT}{2} {3}{NORMAL} parabéns pobre."
+		"es" "{HIGHLIGHT}{1}{NORMAL} te mando el regalo {HIGHLIGHT}{2} {3}{NORMAL} jajaja que regalo de mierda."
+		"en" "{HIGHLIGHT}{1}{NORMAL} has sent you a {HIGHLIGHT}{2} {3}{NORMAL} as a gift."
+	}
+	
+	"Credit Gift Disabled"
+	{
+		"en" "Credit gifting is disabled on this server."
+		"hu" "A szerveren a kreditek ajándékozása ki van kapcsolva."
+	}
+	
+	"Credit Invalid Amount"
+	{
+		"pt" "Quantidade de creditos invalida primata burro"
+		"es" "Cantidad de créditos invalida burro primate"
+		"en" "Invalid amount of credits entered idiot."
+	}
+	
+	"Credit Not Enough"
+	{
+		"pt" "Você não tem creditos suficiente pra compra essa merda não pobre"
+		"es" "No tienes suficientes créditos para comprar esta mierda no pobre"
+		"en" "You don't have enough broke ass bitch"
+	}
+
+	"Credit Too Many Matches"
+	{
+		"pt" "Mais de um cliente encontrado."
+		"es" "Se encontró más de un cliente."	
+		"en" "More than one client were found."
+	}
+	
+	"Credit No Match"
+	{
+		"pt" "Nenhum player encontrado"
+		"es" "Ningún jugador encontrado"
+		"en" "No player was found."
+	}
+	
+	"Credit Gift Sent"
+	{
+		"#format" "{1:d},{2:s}"
+		"pt" "Você enviou {HIGHLIGHT}{1}{NORMAL} creditos para o pobre chamado: {HIGHLIGHT}{2}{NORMAL}.
+		"es" "Usted envió {HIGHLIGHT}{1}{NORMAL} creditos a lo pobre llamando: {HIGHLIGHT}{2}{NORMAL}.
+		"en" "You have sent {HIGHLIGHT}{1}{NORMAL} credits to {HIGHLIGHT}{2}{NORMAL}.
+	}
+	
+	"Credit Gift Received"
+	{
+		"#format" "{1:d},{2:s}"
+		"pt" "{HIGHLIGHT}{2}{NORMAL} te enviou {HIGHLIGHT}{1}{NORMAL} creditos, boa pobre conseguiu uma esmola."
+		"es" "{HIGHLIGHT}{2}{NORMAL} te envié {HIGHLIGHT}{1}{NORMAL} créditos, bueno pobre recibió un limosna"
+		"en" "{HIGHLIGHT}{2}{NORMAL} has sent you {HIGHLIGHT}{1}{NORMAL} credits."
+	}
+	
+	"Package Sell"
+	{
+		"#format" "{1:d}"
+		"en" "Sell this package for {1}"
+		"hu" "Csomag eladása {1} kreditért"
+	}
+	
+	"Package Gift"
+	{
+		"en" "Gift this package"
+		"hu" "Csomag elajándékozása"
+	}
+	
+	"PlayerSkins Settings Changed"
+	{
+		"pt" "Calma doente, suas novas configurações serão aplicadas quando respawnar."
+		"es" "Cálmate enfermo, tu nueva configuración se aplicará cuando reaparezcas."
+		"en" "Chill femboy, your new settings will be applied on next spawn."
+	}
+	
+	"Confirm_Yes"
+	{
+		"pt" "Sim"	
+		"es" "Sí"
+		"en" "Yes"
+	}
+	
+	"Confirm_No"
+	{
+		"pt" "Não"
+		"es" "No"
+		"en" "No"
+	}
+	
+	"Confirm_Buy"
+	{
+		"#format" "{1:s},{2:t}"
+		"pt" "Certeza que quer comprar {1} {2}?"
+		"es" "Seguro que quieres comprar {1} {2}?"
+		"en" "Are you sure you want to buy {1} {2}?"
+	}
+	
+	"Confirm_Sell"
+	{
+		"#format" "{1:s},{2:t},{3:d}"
+		"pt" "Certeza que quer vender {1} {2} for {3}?"
+		"es" "Seguro que quieres vender {1} {2} for {3}?
+		"en" "Are you sure you want to sell {1} {2} for {3}?
+	}
+	
+	"Confirm_Gift"
+	{
+		"#format" "{1:s},{2:t},{3:s}"
+		"pt" "Certeza que quer enviar o item {1} {2} para o {3}?"
+		"es" "Está seguro de que desea enviar el artículo {1} {2} para el {3}?"
+		"en" "Are you sure you want to gift {1} {2} to {3}?"
+	}
+
+	"Confirm_Gift_Drop"
+	{
+		"#format" "{1:s},{2:t}"
+		"pt" "Certeza que quer dropar o {1} {2} como um presente?"
+		"es" "Seguro que quieres dejar el {1} {2} como un regalo?"
+		"en" "Are you sure you want to drop {1} {2} as a gift?"
+	}
+	
+	"Override Enabled"
+	{
+		"en" "Your current skin doesn't support hats. Your skin will be changed."
+		"hu" "A jelenlegi skined nem támogatja a sapkákat. A skined megváltoztatjuk, hogy tudd viselni a sapkád."
+	}
+	
+	"Override Disabled"
+	{
+		"en" "Your skin doesn't support hats. Your equipped hat will be disabled."
+		"hu" "A jelenlegi skined nem támogatja a sapkákat. A sapkád nem tudod felvenni."
+	}
+
+	"Credits Given"
+	{
+		"#format" "{1:s}{2:d}"
+		"pt" "{1} recebeu {2} creditos, caralho pobre mesmo ganhando continua pobre pqp."
+		"es" "{1} recibió {2} creditos."
+		"en" "{1} has been given {2} credits."
+	}
+
+	"Betting Won"
+	{
+		"#format" "{1:d}"
+		"pt" "Boa krl Você ganhou a aposta! Você recebeu {1} creditos."
+		"es" "Ganaste la apuesta! Usted recibió {1} creditos."
+		"en" "Your bet was successful. You won {1} credits."
+	}
+
+	"Betting Lost"
+	{
+		"#format" "{1:d}"
+		"pt" "Se fodeu você perdeu {1} creditos nessa aposta, otario."
+		"es" "vete a la mierda perdido {1} créditos en esa apuesta, tonto."
+		"en" "You lost {1} credits on the bet."
+	}
+
+	"Betting Invalid Team"
+	{
+		"en" "Invalid team identifier specified."
+		"hu" "Helytelen csapat azonosító."
+	}
+
+	"Betting Placed"
+	{
+		"#format" "{1:d}"
+		"pt" "Você colocou com sucesso uma aposta de {1} créditos."
+		"es" "Ha realizado con éxito una apuesta de {1} créditos"
+		"en" "You have successfully placed a bet of {1} credits."
+	}
+
+	"Betting Already Placed"
+	{	
+		"pt" "Você já fez sua aposta para a rodada."
+		"en" "es" "Ya has hecho tu apuesta para la ronda."
+		"en" "You have already placed your bet for the round."
+	}
+
+	"Betting Period Over"
+	{
+		"pt" "O período de apostas terminou nesta rodada."
+		"es" "El período de apuestas ha terminado para esta ronda."
+		"en" "The betting period is over for this round."
+	}
+	
+	"Player Resetted"
+	{
+		"#format" "{1:s}"
+		"pt" "{1} foi redefinido."
+		"es" "{1} se ha restablecido".
+		"en" "{1} has been resetted."
+	}
+
+	"Player Credits"
+	{
+		"#format" "{1:s},{2:d}"
+		"pt" "{HIGHLIGHT}{1}{NORMAL} tem créditos de {HIGHLIGHT}{2}{NORMAL}."
+		"es" "{HIGHLIGHT}{1}{NORMAL} tiene {HIGHLIGHT}{2}{NORMAL} créditos."
+		"en" "{HIGHLIGHT}{1}{NORMAL} has {HIGHLIGHT}{2}{NORMAL} credits."
+	}
+
+	"Credits Earned For Killing"
+	{
+		"#format" "{1:d},{2:s}"
+		"en" "You earned {HIGHLIGHT}{1}{NORMAL} credits for killing {HIGHLIGHT}{2}{NORMAL}."
+		"hu" "{HIGHLIGHT}{2}{NORMAL} megölésével {HIGHLIGHT}{1}{NORMAL} kreditet szereztél."
+	}
+
+	"Credits Earned For Playing"
+	{
+		"#format" "{1:d}"
+		"en" "You earned {HIGHLIGHT}{1}{NORMAL} credits for playing on the server."
+		"hu" "{HIGHLIGHT}{1}{NORMAL} kreditet szereztél az itt töltött időért.
+	}
+
+	"Drop Gift"
+	{
+		"pt" "Dropar como um presente"
+		"es" "soltar como regalo"
+		"en" "Drop as gift"
+	}
+
+	"Gift Item Picked"
+	{
+		"#format" "{1:s},{2:t}"
+		"pt" "Você pegou {HIGHLIGHT}{1} {2}{NORMAL}."
+		"es" "Recogiste un {HIGHLIGHT}{1} {2}{NORMAL}".
+		"en" "You picked up a {HIGHLIGHT}{1} {2}{NORMAL}."
+	}
+
+	"Gift Credit Picked"
+	{
+		"#format" "{1:d}"
+		"pt" "Você pegou do chão {HIGHLIGHT}{1} creditos{NORMAL}."
+		"es" "lo recogiste del suelo {HIGHLIGHT}{1} créditos{NORMAL}"
+		"en" "You picked up {HIGHLIGHT}{1} credits{NORMAL}."
+	}
+
+	"Credit Gift Dropped"
+	{
+		"#format" "{1:d}"
+		"pt" "Você largou cair {HIGHLIGHT}{1} creditos{NORMAL} como um presente"
+		"en" "Lo dejaste caer al suelo {HIGHLIGHT}{1} creditos{NORMAL} como regalo."
+		"en" "You dropped {HIGHLIGHT}{1} credits{NORMAL} as a gift."
+	}
+
+	"Must be Alive"
+	{		
+		"pt" "Você deve estar vivo(a) para usar isso."	
+		"es" "Debes estar vivo(a) para usar esto".
+		"en" "You must be alive to use this."
+	}
+
+	"TF Wrong Class"
+	{
+		"en" "This item was meant to be used with a different player class."
+		"hu" "Ez a tárgy egy másik kaszthoz való."
+	}
+
+	"Help_Back"
+	{
+		"pt" "Voltar"
+		"es" "Volver"
+		"en" "Back"
+	}
+
+	"Help_Exit"
+	{
+		"en" "Exit"
+	}
+
+	"Jetpack Fuel"
+	{
+		"#format" "{1:.1f}"
+		"en" "[Jetpack] Fuel: {1}"
+		"hu" "[Jetpack] Üzemanyag: {1}"
+	}
+
+	"Health Round Limit"
+	{
+		"en" "You have reached the maximum amount of health packs you can buy this round."
+		"hu" "Ebben a körben már elég életet vettél."
+	}
+
+	"Respawn Round Limit"
+	{
+		"en" "You have reached the maximum number of respawns you can buy this round."
+		"hu" "Ebben a körben már elég újraéledést vettél."
+	}
+
+	"Jihad Wrong Team"
+	{
+		"en" "You can't use the bomb in this team."
+		"hu" "Ebben a csapatban nem használhatod a bombát."
+	}
+
+	"Jihad Failed"
+	{
+		"en" "Your bomb has failed to explode."
+		"hu" "A robbantás sikertelen volt."
+	}
+
+	"Godmode Round Limit"
+	{
+		"en" "You have reached the maximum amount of godmodes you can buy this round."
+		"hu" "Ebben a körben már elég örök életet vettél."
+	}
+
+	"Godmode Wrong Team"
+	{
+		"en" "You can't use godmode in this team."
+		"hu" "Ebben a csapatban nem használhatod az örök életet."
+	}
+
+	// Item type names for chat messages
+	"package"
+	{
+		"pt" "pacote"
+		"es" "paquete"
+		"en" "package"
+	}
+	
+	"hat"
+	{
+		"pt" "chapeu"
+		"es" "sombrero"
+		"en" "hat"
+	}
+	
+	"tracer"
+	{
+		"en" "tracer"
+		"hu" "lézer"
+	}
+	
+	"playerskin"
+	{
+		"en" "player skin"
+		"hu" "játékos skin"
+	}
+
+	"zrclass"
+	{
+		"en" "player class"
+		"hu" "játékos típus"
+	}
+	
+	"trail"
+	{
+		"en" "trail"
+		"hu" "csík"
+	}
+	
+	"grenadeskin"
+	{
+		"en" "grenade skin"
+		"hu" "gránát skin"
+	}
+	
+	"grenadetrail"
+	{
+		"en" "grenade trail"
+		"hu" "gránát csík"
+	}
+
+	"weaponcolor"
+	{
+		"en" "weapon color"
+		"hu" "fegyver szín"
+	}
+
+	"tfunusual"
+	{
+		"pt" "Efeito do chapeu"
+		"es" "efecto sombrero"
+		"en" "hat effect"
+	}
+	
+	"tfhatdye"
+	{
+		"pt" "cor do chapeu"
+		"es" "sombrero color"
+		"en" "hat dye"
+	}
+
+	"tfweapon"
+	{
+		"en" "custom weapon"
+		"hu" "saját fegyver"
+	}
+
+	"tfhead"
+	{
+		"en" "head size"
+		"hu" "fej méret"
+	}
+
+	"tfhat"
+	{
+		"en" "building hat"
+		"hu" "építmény sapka"
+	}
+
+	"tfweaponsize"
+	{
+		"en" "weapon size"
+		"hu" "fegyver méret"
+	}
+
+	"paintball"
+	{
+		"en" "bullets"
+		"hu" "golyók"
+	}
+	
+	"watergun"
+	{
+		"en" "effect"
+		"hu" "effekt"
+	}
+
+	"nametag"
+	{
+		"en" "name tag"
+		"hu" "név tag"
+	}
+
+	"namecolor"
+	{
+		"en" "name color"
+		"hu" "név szín"
+	}
+
+	"msgcolor"
+	{
+		"en" "message color"
+		"hu" "üzenet szín"
+	}
+
+	"jetpack"
+	{
+		"en" "rocket"
+		"hu" "rakéta"
+	}
+
+	"bunnyhop"
+	{
+		"en" "skill"
+		"hu" "képesség"
+	}
+
+	"lasersight"
+	{
+		"en" "laser sight"
+		"hu" "lézer"
+	}
+
+	"health"
+	{
+		"pt" "kit medico"
+		"es" "botiquín médico"
+		"en" "health pack"
+	}
+
+	"invisibility"
+	{
+		"en" "ability"
+		"hu" "képesség"
+	}
+
+	"speed"
+	{
+		"en" "ability"
+		"hu" "képesség"
+	}
+
+	"gravity"
+	{
+		"en" "ability"
+		"hu" "képesség"
+	}
+
+	"weapon"
+	{
+		"en" "weapon"
+		"hu" "fegyver"
+	}
+
+	"sound"
+	{
+		"en" "sound"
+		"hu" "hang"
+	}
+	
+	"command"
+	{
+		"en" ""
+		"hu" ""
+	}
+
+	"jihad"
+	{
+		"en" "bomb"
+		"hu" "bomba"
+	}
+
+	"godmode"
+	{
+		"en" "godmode"
+		"hu" "örök élet"
+	}
+
+	"knife"
+	{
+		"en" "knife"
+		"hu" "kés"
+	}
+
+	"pet"
+	{
+		"en" "pet"
+		"hu" "állat"
+	}
+
+	"weaponskin"
+	{
+		"en" "weapon skin"
+		"hu" "fegyver skin"
+	}
+
+	"spray"
+	{
+		"en" "spray"
+		"hu" "spray"
+	}
+}
