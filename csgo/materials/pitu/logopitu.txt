@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"pitu/logopitu"
+	"$translucent"	1
+}
