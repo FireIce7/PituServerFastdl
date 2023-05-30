@@ -1,7 +1,11 @@
-"lightmappedgeneric" {
-    "$basetexture" "pitu\pituserver"
-    "$translucent" 1
-    "$decal" 1
-    "$decalscale" 1.000000
-    "$surfaceprop" "Default"
+LightmappedGeneric
+{
+	$basetexture "D:/PituServer"
+
+	$alpha 0.88
+	$translucent 1
+	$decal 1
+
+	$vertexcolor 1
+	$vertexalpha 1
 }
