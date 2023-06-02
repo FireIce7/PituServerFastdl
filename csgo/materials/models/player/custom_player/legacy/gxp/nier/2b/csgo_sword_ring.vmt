@@ -1,0 +1,19 @@
+"UnLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\nier\2b\csgo_sword_ring"
+	"$nocull" "1"
+	"$translucent" "1"
+	"$additive" "1"
+	"$nodecal" "1"
+
+	"proxies"
+	{
+		"texturescroll"
+		{
+			"texturescrollvar" "$BaseTextureTransform"
+			"texturescrollrate" "0.2"
+		}
+	}
+}
+
+

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\nier\2b\csgo_outfit"
+    	"$bumpmap" "models\player\custom_player\legacy\gxp\nier\2b\csgo_outfit_n"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[1 7 7]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          ".7"
+}
+
+

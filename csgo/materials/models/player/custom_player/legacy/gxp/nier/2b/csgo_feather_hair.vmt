@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\nier\2b\csgo_feather"
+    	"$bumpmap" "models\player\custom_player\legacy\gxp\nier\2b\csgo_feather_n"
+	"$nocull" "1"
+}
+
+

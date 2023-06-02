@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\nier\2b\csgo_sword"
+    	"$bumpmap" "models\player\custom_player\legacy\gxp\nier\2b\csgo_sword_n"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongexponent" "70"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[1 8 8]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          ".7"
+}
+
+
